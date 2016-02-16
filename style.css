@@ -1,0 +1,77 @@
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+   background: url(https://scontent-ord1-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/886848_981167261931165_5954769123908576574_o.jpg) no-repeat; 
+
+}
+
+h1 { text-align: center;
+    color:  #FFFFFF;
+
+ }
+
+ul { list-style-type:none;
+}
+
+contact { 
+    width: 120px;
+    padding: 7px;
+    border: 2px solid gray;
+    margin: 0;
+
+}
+
+    contact:hover { 
+    background-color: #FFFFFF;
+}
+
+a { color: inherit; } 
+
+article { 
+    position: relative;
+    left: 300px; 
+
+  }
+
+
+.images {
+  text-align: center;
+    
+}
+
+.images img {
+  width: 300px;
+  height: auto;
+}
+
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+*/
+
+
+
